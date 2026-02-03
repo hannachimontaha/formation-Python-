@@ -1,7 +1,3 @@
-1️⃣ Formation Python
-
-Tu peux copier-coller intégralement le contenu ci-dessous dans un fichier README.md.
-
 📘 Formation Python – Notebooks d’apprentissage
 
 Ce dépôt regroupe une série de notebooks Python réalisés dans le cadre d’une formation visant à consolider les fondamentaux du langage Python ainsi que leur application pratique à travers des exercices progressifs.
