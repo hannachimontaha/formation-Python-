@@ -1,4 +1,4 @@
-1️⃣ README professionnel – Formation Python
+1️⃣ Formation Python
 
 Tu peux copier-coller intégralement le contenu ci-dessous dans un fichier README.md.
 
